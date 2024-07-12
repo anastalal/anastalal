@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anastalal
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning React Frontend framwork ...
-- 💞️ I’m looking to collaborate on real Project in React...
+I'm a passionate Full Stack Developer with a strong background in computer science and extensive experience in building web applications.
+My expertise lies in both front-end and back-end development, and I enjoy solving complex problems with clean and efficient code.
 - 📫 How to reach me ... 
 -  my WhatsApp https://wa.link/yc6has
 

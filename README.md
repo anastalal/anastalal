@@ -55,9 +55,28 @@
 </a>    
   -->
 </p>
-
-
-
+<h2 align="center">⚡ Some of my works  ⚡</h2>
+<br>
+<table align="center">
+  <tr>
+    <td><a href="https://zettatech.sa.com" target="_blank">zettatech.sa.com</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tamkeenheb.sa" target="_blank">tamkeenheb.sa</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://webblank.me" target="_blank">webblank.me</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://frahdesigner.com" target="_blank">frahdesigner.com</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://mkahlaw.vercel.app" target="_blank">mkahlaw.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://hawafco.com" target="_blank">hawafco.com</a></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.github.com/anastalal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anastalal?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>

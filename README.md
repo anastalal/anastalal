@@ -7,7 +7,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
- Hi, I’m @anastalal, Full Stack developer from Yemen
+ Hi, I’m @anastalal, Full Stack developer from Yemen.
   <br>
   I'm a passionate Full Stack Developer with a strong background in computer science
    <br>
